@@ -23,11 +23,6 @@ This tutorial guides the implementation of Active Directory within Microsoft Azu
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Create resources in a resource group in Azure
-- Ensure Connectivity between the client and Domain Controller
-- Install Active Directory
-- Create an Admin and Normal User Account in Active Directory
-- Join Client-1 to your domain
 - Setup Remote Desktop for non-administrative users on Client-1
 - Create additional users and attempt to log into client-1 with one of the users
 
