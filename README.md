@@ -7,7 +7,7 @@ This tutorial guides the implementation of Active Directory within Microsoft Azu
 
 <h2>Prerequisites</h2>
 
-[Configuring On-premises Active Directory within Azure VMs Part 1](https://github.com/BenjaminG-Dreams/configure-ad)
+- [Configuring On-premises Active Directory within Azure VMs Part 1](https://github.com/BenjaminG-Dreams/configure-ad)
 
 <h2>Technologies and Enviroments Used</h2>
 
@@ -164,3 +164,5 @@ Head back to DC-1 and into ADUC in the server manager application. Check to see 
 
 
 <h1>Stay Tuned for On-premises Active Directory within Azure VMs Part 3</h1>
+
+ - [On-premises Active Directory within Azure VMs Part 3](https://github.com/BenjaminG-Dreams/configure-ad3)
